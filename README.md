@@ -24,7 +24,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats]https://github.com/AnkitaHegde17/Ankitahegde17/new/main?filename=README.md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkitaHegde17&show_icons=true&theme=radical)
 
 ---
 
