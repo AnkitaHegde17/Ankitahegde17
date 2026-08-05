@@ -47,10 +47,10 @@ Flask application that analyzes crop leaf images to detect plant diseases and su
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 ![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkitaHegde17&show_icons=true&theme=radical)
 
 ---
-
-⭐️ Always open to internship opportunities and collaborations on full-stack projects.
